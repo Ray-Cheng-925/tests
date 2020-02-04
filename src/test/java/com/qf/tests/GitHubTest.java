@@ -7,5 +7,6 @@ package com.qf.tests;
 public class GitHubTest {
     public static void main(String[] args){
         System.out.println("test");
+        System.out.println("第二次测试提交");
     }
 }
